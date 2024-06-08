@@ -1,4 +1,4 @@
-# Brain Dead Submission Report
+# Brain Dead Hackathon Submission Report
 
 ## Author:
 - Harsh Ranjan
